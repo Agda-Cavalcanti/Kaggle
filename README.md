@@ -3,8 +3,8 @@
 Atividade realizada através da unidade curricular de Inteligência Artificial, com o objetivo de explorar as aplicações básicas de técnicas fundamentais de Machine Learning e aprender a utilizar o Kaggle para análises de dados.
 
 <p  align="center">
-<img src="imgs/ml.png" alt="ml icon" width="50">
-<img src="imgs/kaggle.png" alt="kaggle icon" width="50">
+<img src="img/ml.png" alt="ml icon" width="60">
+<img src="img/kaggle.png" alt="kaggle icon" width="60">
 </p>
 
 ## Base de dados pública escolhida no Kaggle
