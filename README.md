@@ -2,8 +2,15 @@
 
 Atividade realizada através da unidade curricular de Inteligência Artificial, com o objetivo de explorar as aplicações básicas de técnicas fundamentais de Machine Learning e aprender a utilizar o Kaggle para análises de dados.
 
+<p  align="center">
+<img src="imgs/ml.png" alt="ml icon" width="50">
+<img src="imgs/kaggle.png" alt="kaggle icon" width="50">
+</p>
+
 ## Base de dados pública escolhida no Kaggle
+
 [Fatores de desempenho do aluno](https://www.kaggle.com/datasets/lainguyn123/student-performance-factors)
+
 
 ## Descrição da base de dados
 
